@@ -2,8 +2,8 @@
 Final group project for graduate course CSC 424: Advanced Data Analysis
 
 Included in the following respository:
-    1. Executive Summary
-    2. Journal Article
-    3. In-Class Group Presentation
-    4. RData Files of the Data Set
+    \n1. Executive Summary
+    \n2. Journal Article
+    \n3. In-Class Group Presentation
+    \n4. RData Files of the Data Set
     
